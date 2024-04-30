@@ -44,3 +44,51 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
 Email: *company.freed@gmail.com*  
+
+
+Política de Privacidade  
+----------------
+
+### Introdução  
+Nossa política de privacidade ajudará você a entender quais informações coletamos no *Freed Company/ProNerd*, como o *Freed Company/ProNerd* as utiliza e quais escolhas você tem.
+O *Freed Company/ProNerd* desenvolveu o aplicativo *ProNerd* como um aplicativo gratuito. Este SERVIÇO é fornecido pelo *Freed Company/ProNerd* sem custo algum e destina-se a ser usado como está.
+Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço. Não usaremos nem compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.  
+Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, acessíveis em nosso site, salvo definição em contrário nesta Política de Privacidade.
+
+### Coleta e Uso de Informações  
+Para uma melhor experiência ao usar nosso Serviço, podemos solicitar que você nos forneça certas informações pessoalmente identificáveis, incluindo, mas não se limitando a nome de usuário, endereço de e-mail, gênero, localização, fotos. As informações que solicitamos serão retidas por nós e usadas conforme descrito nesta política de privacidade.  
+O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
+
+### Cookies  
+Cookies são arquivos com pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir do site que você visita e são armazenados na memória interna do seu dispositivo.  
+
+Este Serviço não usa explicitamente esses "cookies". No entanto, o aplicativo pode usar código e bibliotecas de terceiros que usam "cookies" para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para seu dispositivo. Se você optar por recusar nossos cookies, pode não ser capaz de usar algumas partes deste Serviço.
+
+### Informações de Localização  
+Alguns dos serviços podem usar informações de localização transmitidas pelos telefones celulares dos usuários. Usamos essas informações apenas dentro do escopo necessário para o serviço designado.
+
+### Informações do Dispositivo  
+Coletamos informações do seu dispositivo em alguns casos. As informações serão utilizadas para a prestação de um serviço melhor e para prevenir atos fraudulentos. Além disso, tais informações não incluirão aquelas que identificarão o usuário individual.
+
+### Prestadores de Serviços  
+Podemos empregar empresas e indivíduos terceirizados pelos seguintes motivos:  
+* Facilitar nosso Serviço;
+* Fornecer o Serviço em nosso nome;
+* Realizar serviços relacionados ao Serviço; ou
+* Nos ajudar a analisar como nosso Serviço é usado.  
+
+Queremos informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é realizar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outro propósito.
+
+### Segurança  
+Valorizamos sua confiança em nos fornecer suas Informações Pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se de que nenhum método de transmissão pela internet ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
+
+### Privacidade das Crianças  
+Este Serviço não se destina a menores de 13 anos. Não coletamos intencionalmente informações pessoalmente identificáveis de crianças menores de 13 anos. No caso de descobrirmos que uma criança menor de 13 anos nos forneceu informações pessoais, excluímos imediatamente essas informações de nossos servidores. Se você é um pai ou responsável e está ciente de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
+
+### Alterações a esta Política de Privacidade  
+Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, é recomendável que você revise esta página periodicamente para quaisquer alterações. Notificaremos você sobre quaisquer alterações postando a nova Política de Privacidade nesta página. Essas alterações são eficazes imediatamente após serem publicadas nesta página.
+
+### Entre em Contato Conosco  
+Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar.  
+Informações de Contato:  
+E-mail: *company.freed@gmail.com*
